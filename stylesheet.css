@@ -15,11 +15,30 @@ img,h1 {
 }
 
 img{
-    width: 250px;
-    
+    width: 250px;    
 }
+
 
 li a{
     font-size: 22px;
     text-align: right;
+}
+
+div.homepage-card{
+    width: 600px;
+    height: 600px;
+}
+
+
+li.recipe-list {
+    color: red;
+    display: inline;
+    padding: 10px 30px;
+    border: 4px solid black;
+    background-color: lightgray;
+}
+
+.description{  
+    text-align: center;
+
 }
